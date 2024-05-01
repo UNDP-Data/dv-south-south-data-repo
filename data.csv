@@ -7,7 +7,7 @@
 6,RBA,Burundi ,BDI,LDC;LLDC,Cameroon,CMR,Government,Country-To-Country,Capacity Building;Knowledge Sharing,16;5,Gender Equality;Governance
 7,RBA,Burundi ,BDI,LDC;LLDC,"Cameroon, Burkina Faso, Tanzania and Rwanda",CMR;BFA;TZA;RWA,Private Sector,Country-To-Country,Capacity Building;Partnership Facilitation,7;8,Sustainable Energy;Economic Growth & Job Creation
 8,RBA,Cabo Verde,CPV,SIDS,,,Government,Regional,Knowledge Sharing,14,Marine Conservation
-9,RBA,Cabo Verde,CPV,SIDS,"Angola, Cabo Verde,  Guiné-Bissau, São Tomé e Príncipe, Mozambique, and East Timor",AGO;CPV;GNB;STP;MOZ;TLS,Government,Cross-Regional,Capacity Building;Knowledge Sharing,14;15,Marine Conservation;Natural Resource Management & Biodiversity
+9,RBA,Cabo Verde,CPV,SIDS,"Angola, Cabo Verde,  Guiné-Bissau, São Tomé e Príncipe, Mozambique, and East Timor",AGO;CPV;GNB;STP;MOZ;TLS,Government,Inter-Regional,Capacity Building;Knowledge Sharing,14;15,Marine Conservation;Natural Resource Management & Biodiversity
 10,RBA ,Cameroon,CMR,,,,CSO/NGOs,Regional,Capacity Building,8,Economic Growth & Job Creation
 11,RBA ,Cameroon,CMR,,Egypt,EGY,CSO/NGOs,Country-To-Country,Capacity Building;Knowledge Sharing,5;8,Economic Growth & Job Creation;Gender Equality
 12,RBA ,Cameroon,CMR,,,,IFI,,Capacity Building;Partnership Facilitation,9,Sustainable Industrialization
@@ -62,7 +62,7 @@
 61,RBA,Nigeria ,NGA,,,,Government,Regional,Capacity Building,8,Economic Growth & Job Creation
 62,RBA,Rwanda ,RWA,LDC;LLDC,,,Government,Regional,Knowledge Sharing,8,Economic Growth & Job Creation
 63,RBA,Sao Tome and Principe,STP,LDC;SIDS,,,Government,Regional,Knowledge Sharing,4,Education & Skills Development
-64,RBA,Sao Tome and Principe,STP,LDC;SIDS,"Brazil, Angola, Cabo Verde, Guinea-Bissau, Equatorial Guinea, Mozambique, Portugal, Sao Tome and Principe, and Timor-Leste",BRA;AGO;CPV;GNB;GNQ;MOZ;PRT;STP;TLS,Government,Cross-Regional,Capacity Building;Knowledge Sharing,13,Climate Action
+64,RBA,Sao Tome and Principe,STP,LDC;SIDS,"Brazil, Angola, Cabo Verde, Guinea-Bissau, Equatorial Guinea, Mozambique, Portugal, Sao Tome and Principe, and Timor-Leste",BRA;AGO;CPV;GNB;GNQ;MOZ;PRT;STP;TLS,Government,Inter-Regional,Capacity Building;Knowledge Sharing,13,Climate Action
 65,RBA ,South Africa ,ZAF,,Zimbabwe,ZWE,CSO/NGOs;Government,Country-To-Country,Capacity Building;Knowledge Sharing,16,Governance
 66,RBA ,South Africa ,ZAF,,the Gambia,GMB,Government,Country-To-Country,Knowledge Sharing,7,Energy Efficiency
 67,RBA ,South Africa ,ZAF,, Tanzania,TZA,Government,Country-To-Country,Knowledge Sharing,7,Energy Efficiency
@@ -148,7 +148,7 @@
 147,RBEC,Tajikistan,TJK,LLDC,"Russian Federation, Kazakhstan, Belarus, Uzbekistan ",RUS;KAZ;BLR;UZB,Private Sector,Regional,Partnership Facilitation,17,Trade
 148,RBEC,Tajikistan,TJK,LLDC,Armenia,ARM,Government;IFI,Country-To-Country,Capacity Building;Knowledge Sharing,17,Financing
 149,RBEC,Turkmenistan,TKM,LLDC,,,Government,Regional,Knowledge Sharing,16,Governance
-150,RBEC,Turkmenistan,TKM,LLDC,,,Government,Cross-Regional,Knowledge Sharing,16,Governance
+150,RBEC,Turkmenistan,TKM,LLDC,,,Government,Inter-Regional,Knowledge Sharing,16,Governance
 151,RBEC,Turkmenistan,TKM,LLDC,China ,CHN,Government,Country-To-Country,Partnership Facilitation,8;10,Economic Growth & Job Creation;Social Inclusion
 152,RBEC,Turkmenistan,TKM,LLDC,China ,CHN,Academia;Government,Country-To-Country,Knowledge Sharing,8;10,Economic Growth & Job Creation;Social Inclusion
 153,RBEC,Turkiye,TUR,,,,Academia;Government,Regional,Knowledge Sharing,14,Marine Conservation
@@ -162,12 +162,12 @@
 161,RBEC,Regional Bureau for Europe and CIS,,,"North Macedonia, Montenegro, Ukraine, and Cyprus",MKD;MNE;UKR;CYP,Government,Regional,Capacity Building;Knowledge Sharing,3;16,Governance;Health
 162,RBEC,Regional Bureau for Europe and CIS,,,"Serbia, Kyrgyzstan",SRB;KGZ,Government,Regional,Knowledge Sharing,11,Disaster Risk Management
 163,RBEC,Regional Bureau for Europe and CIS,,,,,Government,Regional,Capacity Building;Knowledge Sharing,9,Digital Transformation
-164,RBEC,Regional Bureau for Europe and CIS,,,,,Government,Cross-Regional,Knowledge Sharing,3,Health
+164,RBEC,Regional Bureau for Europe and CIS,,,,,Government,Inter-Regional,Knowledge Sharing,3,Health
 165,RBEC,Regional Bureau for Europe and CIS,,,,,Government,Regional,Knowledge Sharing,1,Poverty Eradication
 166,RBEC,Regional Bureau for Europe and CIS,,,,,Government,Regional,Knowledge Sharing,5;16,Gender Equality;Governance
 167,RBEC,Regional Bureau for Europe and CIS,,,,,Government,Regional,Capacity Building;Knowledge Sharing,16,Governance
 168,RBEC,Regional Bureau for Europe and CIS,,,,,Government,Regional,Knowledge Sharing,16,Governance
-169,RBLAC,Argentina,ARG,,,,Academia;CSO/NGOs;Government;Private Sector,Cross-Regional,Knowledge Sharing,16;9,Governance;Digital Transformation
+169,RBLAC,Argentina,ARG,,,,Academia;CSO/NGOs;Government;Private Sector,Inter-Regional,Knowledge Sharing,16;9,Governance;Digital Transformation
 170,RBLAC,Argentina,ARG,,"Colombia, Ecuador, Peru",COL;ECU;PER,Government,Regional,Knowledge Sharing,15,Natural Resource Management & Biodiversity
 171,RBLAC,Argentina,ARG,,"Bolivia, Chile",BOL;CHL,Government,Regional,Knowledge Sharing,15,Natural Resource Management & Biodiversity
 172,RBLAC,Barbados ,BRB,SIDS,,,Academia;Government,Regional,Partnership Facilitation,11,Disaster Risk Management
@@ -177,13 +177,13 @@
 176,RBLAC,Barbados,BRB,SIDS,Dominica,DMA,Government,Country-To-Country,Capacity Building,13,Climate Action
 177,RBLAC,Barbados,BRB,SIDS,,,Government;Private Sector,Regional,Capacity Building,13,Climate Action
 178,RBLAC,Barbados,BRB,SIDS,,,Regional Organization;Government,,Partnership Facilitation,2;5;8,Agriculture;Economic Growth & Job Creation;Gender Equality
-179,RBLAC,Belize,BLZ,SIDS,,,Government,Cross-Regional,Knowledge Sharing,16,Governance
+179,RBLAC,Belize,BLZ,SIDS,,,Government,Inter-Regional,Knowledge Sharing,16,Governance
 180,RBLAC,Belize,BLZ,SIDS,,,Regional Organization;Government,Regional,Capacity Building,5,Gender Equality
-181,RBLAC,Brazil ,BRA,,,,Government,Cross-Regional,Capacity Building;Partnership Facilitation,17,Building Capacities to Implement the SDGs
+181,RBLAC,Brazil ,BRA,,,,Government,Inter-Regional,Capacity Building;Partnership Facilitation,17,Building Capacities to Implement the SDGs
 182,RBLAC,Brazil ,BRA,,Haiti,HTI,Government;Private Sector,Country-To-Country,Capacity Building,4;8,Economic Growth & Job Creation;Education & Skills Development
-183,RBLAC,Brazil ,BRA,,,,Government,Cross-Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
-184,RBLAC,Brazil ,BRA,,,,Government,Cross-Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
-185,RBLAC,Brazil ,BRA,,,,Government,Cross-Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
+183,RBLAC,Brazil ,BRA,,,,Government,Inter-Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
+184,RBLAC,Brazil ,BRA,,,,Government,Inter-Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
+185,RBLAC,Brazil ,BRA,,,,Government,Inter-Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
 186,RBLAC,Brazil ,BRA,,,,Government,Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
 187,RBLAC,Brazil ,BRA,,,,Government,Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
 188,RBLAC,Brazil ,BRA,,,,Government,Regional,Capacity Building,2;8;17,Agriculture;Economic Growth & Job Creation;SSC
@@ -191,7 +191,7 @@
 190,RBLAC,Chile,CHL,,China ,CHN,Government,Country-To-Country,Knowledge Sharing,11,Urban Development
 191,RBLAC,Chile,CHL,,,,CSO/NGOs;Government,Country-To-Country,Partnership Facilitation,17,SSC
 192,RBLAC,Chile,CHL,,,,Government,Regional,Knowledge Sharing,16,Governance
-193,RBLAC,Chile,CHL,,,,Government,Cross-Regional,Knowledge Sharing,16,Governance
+193,RBLAC,Chile,CHL,,,,Government,Inter-Regional,Knowledge Sharing,16,Governance
 194,RBLAC,Chile,CHL,,Ecuador,ECU,Government,Country-To-Country,Partnership Facilitation,13,Climate Action
 195,RBLAC,Chile,CHL,,Peru,PER,Government,Country-To-Country,Partnership Facilitation,14,Marine Conservation
 196,RBLAC,Chile,CHL,,,,CSO/NGOs;Government;Private Sector,Regional,Knowledge Sharing,5;8;14,Economic Growth & Job Creation;Gender Equality;Marine Conservation
@@ -205,7 +205,7 @@
 204,RBLAC,Dominican Republic,DOM,SIDS,Mexico,MEX,Government,Country-To-Country,Capacity Building;Knowledge Sharing,1,Social Protection
 205,RBLAC,Dominican Republic,DOM,SIDS,Brazil ,BRA,Government,Country-To-Country,Knowledge Sharing,1,Social Protection
 206,RBLAC,Dominican Republic,DOM,SIDS,UAE,ARE,CSO/NGOs;Regional Organization;Government;Private Sector,Country-To-Country,Capacity Building,17,Financing
-207,RBLAC,Dominican Republic,DOM,SIDS,,,Government,Cross-Regional,Knowledge Sharing,17,Financing
+207,RBLAC,Dominican Republic,DOM,SIDS,,,Government,Inter-Regional,Knowledge Sharing,17,Financing
 208,RBLAC,Dominican Republic,DOM,SIDS,Mexico,MEX,Government,Country-To-Country,Knowledge Sharing,8;5,Economic Growth & Job Creation;Gender Equality
 209,RBLAC,Dominican Republic,DOM,SIDS,Colombia,COL,Government,Country-To-Country,Capacity Building;Knowledge Sharing,11,Community Resilience
 210,RBLAC,Ecuador,ECU,,,,Government,Country-To-Country,Knowledge Sharing,17,SSC
@@ -340,9 +340,9 @@
 339,RBAP ,China ,CHN,,,,Government,Global,Knowledge Sharing,17,SSC
 340,RBAP ,China ,CHN,,"Bangladesh, Lao PDR, Maldives and Pakistan",BGD;LAO;MDV;PAK,Government,Regional,Partnership Facilitation,9,Science & Technology
 341,RBAP ,China ,CHN,,,,Government,Regional,Knowledge Sharing,6,Water Management
-342,RBAP,Indonesia ,IDN,,,,Government,Cross-Regional,Knowledge Sharing,14,Marine Conservation
-343,RBAP,Indonesia ,IDN,,,,CSO/NGOs;Government;IFI;Private Sector,Cross-Regional,Partnership Facilitation,16,Governance
-344,RBAP,Indonesia ,IDN,,,,Government,Cross-Regional,Capacity Building,5;4;9,Gender Equality;Digital Transformation;Education & Skills Development
+342,RBAP,Indonesia ,IDN,,,,Government,Inter-Regional,Knowledge Sharing,14,Marine Conservation
+343,RBAP,Indonesia ,IDN,,,,CSO/NGOs;Government;IFI;Private Sector,Inter-Regional,Partnership Facilitation,16,Governance
+344,RBAP,Indonesia ,IDN,,,,Government,Inter-Regional,Capacity Building,5;4;9,Gender Equality;Digital Transformation;Education & Skills Development
 345,RBAP,Indonesia ,IDN,,,,Regional Organization,Regional,Partnership Facilitation,14;9,Marine Conservation
 346,RBAP,Indonesia ,IDN,,Madagascar,MDG,Private Sector,Country-To-Country,Knowledge Sharing,6;14;9,Digital Transformation;Marine Conservation
 347,RBAP,Indonesia ,IDN,,Fiji,FJI,CSO/NGOs;Government;Private Sector,Country-To-Country,Knowledge Sharing;Partnership Facilitation,14;9,Digital Transformation;Marine Conservation
@@ -353,7 +353,7 @@
 352,RBAP,Indonesia ,IDN,,Barbados ,BRB,CSO/NGOs;Government;Private Sector,Country-To-Country,Knowledge Sharing;Partnership Facilitation,14;9,Digital Transformation;Marine Conservation
 353,RBAP,Indonesia ,IDN,,Guyana,GUY,CSO/NGOs;Government;Private Sector,Country-To-Country,Knowledge Sharing;Partnership Facilitation,14;9,Digital Transformation;Marine Conservation
 354,RBAP,Indonesia ,IDN,,PNG,PNG,CSO/NGOs;Regional Organization;Private Sector,Country-To-Country,Capacity Building,14;9,Digital Transformation;Marine Conservation
-355,RBAP,Indonesia ,IDN,,"Bangladesh, Cambodia, Laos, Tanzania, Kuwait, Malaysia, Sri Lanka, Timor Leste, Fiji & Maldives",BGD;KHM;LAO;TZA;KWT;MYS;LKA;TLS;FJI;MDV,Government,Cross-Regional,Knowledge Sharing,17,Financing
+355,RBAP,Indonesia ,IDN,,"Bangladesh, Cambodia, Laos, Tanzania, Kuwait, Malaysia, Sri Lanka, Timor Leste, Fiji & Maldives",BGD;KHM;LAO;TZA;KWT;MYS;LKA;TLS;FJI;MDV,Government,Inter-Regional,Knowledge Sharing,17,Financing
 356,RBAP ,India ,IND,,"Bangladesh, Maldives ",BGD;MDV,Government,Country-To-Country,Capacity Building,4,Education & Skills Development
 357,RBAP,Iran,IRN,,,,Regional Organization;Government,Global,Capacity Building;Knowledge Sharing,15,Natural Resource Management & Biodiversity
 358,RBAP ,Lao PDR,LAO,LDC;LLDC,Viet Nam,VNM,Government,Country-To-Country,Partnership Facilitation,15,Natural Resource Management & Biodiversity
@@ -369,7 +369,7 @@
 368,RBAP ,Thailand ,THA,,Lao PDR,LAO,CSO/NGOs;Government,Country-To-Country,Capacity Building;Knowledge Sharing,3,Health
 369,RBAP,Timor-Leste,TLS,LDC;SIDS,,,,Regional,Knowledge Sharing,14,Marine Conservation
 370,RBAP,Timor-Leste,TLS,LDC;SIDS,"Australia, Indonesia, Papua New Guinea",AUS;IDN;PNG,Government,Country-To-Country,Knowledge Sharing,14,Marine Conservation
-371,RBAP,Viet Nam,VNM,,"South African, Indonesia and 7 other countries ",ZAF;IDN,Government;Private Sector,Cross-Regional,Knowledge Sharing,7,Renewable Energy
+371,RBAP,Viet Nam,VNM,,"South African, Indonesia and 7 other countries ",ZAF;IDN,Government;Private Sector,Inter-Regional,Knowledge Sharing,7,Renewable Energy
 372,RBAP,Reg Bur Asia & Pacific ,,,,,CSO/NGOs;Private Sector,Regional,Capacity Building,5;8,Economic Growth & Job Creation;Gender Equality
 373,RBAP,Reg Bur Asia & Pacific ,,,,,Regional Organization;Government,,Capacity Building,14,Marine Conservation
 374,RBAP,Reg Bur Asia & Pacific ,,,,,Regional Organization,Regional,Capacity Building,6,Water Management
@@ -382,13 +382,13 @@
 381,RBAP,Reg Bur Asia & Pacific ,,,,,CSO/NGOs;Regional Organization;Government;IFI;Private Sector,Regional,Knowledge Sharing,16,Governance
 382,RBAP,Reg Bur Asia & Pacific ,,,"Thailand, Myanmar",THA;MMR,Government,Regional,Knowledge Sharing;Partnership Facilitation,16,Governance
 383,RBAP,Reg Bur Asia & Pacific ,,,"the Philippines, Myanmar, PNG, and Pakistan",PHL;MMR;PNG;PAK,Regional Organization,Regional,Partnership Facilitation,13,Climate Action
-384,RBAS,Bahrain,BHR,,,,Academia;CSO/NGOs;Government,Cross-Regional,Knowledge Sharing;Partnership Facilitation,11,Urban Development
+384,RBAS,Bahrain,BHR,,,,Academia;CSO/NGOs;Government,Inter-Regional,Knowledge Sharing;Partnership Facilitation,11,Urban Development
 385,RBAS,Bahrain ,BHR,,,,Academia;Government,Regional,Capacity Building,5,Gender Equality
 386,RBA,Djibouti,DJI,LDC,China ,CHN,CSO/NGOs,Country-To-Country,Partnership Facilitation,10;5,Gender Equality;Social Inclusion
 387,RBA,Djibouti,DJI,LDC,Cameroon,CMR,Government,Country-To-Country,Knowledge Sharing,11,Water Management
 388,RBAS,Egypt,EGY,,Sudan,SDN,CSO/NGOs,Country-To-Country,Partnership Facilitation,16,Governance
 389,RBAS,Egypt,EGY,,State of Palestine ,PSE,CSO/NGOs,Country-To-Country,Partnership Facilitation,16,Governance
-390,RBAS,Egypt,EGY,,,,CSO/NGOs,Cross-Regional,Capacity Building,16,Governance
+390,RBAS,Egypt,EGY,,,,CSO/NGOs,Inter-Regional,Capacity Building,16,Governance
 391,RBAS,Egypt,EGY,,,,CSO/NGOs,Regional,Partnership Facilitation,13,Climate Action
 392,RBAS ,Iraq,IRQ,,Malaysia ,MYS,Government,Country-To-Country,Partnership Facilitation,17,SSC
 393,RBAS,Jordan,JOR,,UAE,ARE,Government,Country-To-Country,Knowledge Sharing,14,Marine Conservation
@@ -413,7 +413,7 @@
 412,RBAS,Reg Bur Arab States,,,,,Private Sector,Regional,Partnership Facilitation,7,Energy Efficiency
 413,RBAS,Reg Bur Arab States,,,UAE,ARE,CSO/NGOs,Regional,Partnership Facilitation,9,Digital Transformation
 414,RBAS,Reg Bur Arab States,,,,,Government,Regional,Knowledge Sharing,16,Governance
-415,RBAS,Reg Bur Arab States,,,,,Regional Organization;Government,Cross-Regional,Partnership Facilitation,16,Governance
+415,RBAS,Reg Bur Arab States,,,,,Regional Organization;Government,Inter-Regional,Partnership Facilitation,16,Governance
 416,RBAS,Reg Bur Arab States,,,,,Regional Organization,Regional,Partnership Facilitation,7,Renewable Energy
 417,RBAS ,Reg Bur Arab States,,,,,IFI,Regional,Partnership Facilitation,11;8,Economic Growth & Job Creation;Community Resilience
 418,RBAS ,Reg Bur Arab States,,,"UAE, Saudi Arabia ",ARE;SAU,Government,Regional,Partnership Facilitation,9,Digital Transformation
@@ -426,6 +426,6 @@
 425,BPPS,Bureu for Policy & Programme Support ,,,,,Academia;CSO/NGOs,Global,Knowledge Sharing,3;17,SSC;Health
 426,BPPS,Bureu for Policy & Programme Support ,,,,,,Global,Knowledge Sharing,15,Natural Resource Management & Biodiversity
 427,BPPS,Bureu for Policy & Programme Support ,,,,,,Global,Knowledge Sharing,8;9;16,Economic Growth & Job Creation;Governance;Digital Transformation
-428,BPPS,Bureu for Policy & Programme Support ,,,"Bangladesh, Ghana, Uganda, and Uzbekistan",BGD;GHA;UGA;UZB,Government,Cross-Regional,Knowledge Sharing,9,Digital Transformation
+428,BPPS,Bureu for Policy & Programme Support ,,,"Bangladesh, Ghana, Uganda, and Uzbekistan",BGD;GHA;UGA;UZB,Government,Inter-Regional,Knowledge Sharing,9,Digital Transformation
 429,BERA,BERA ,,,,,IFI,Global,Partnership Facilitation,9,Digital Transformation
 430,CB,Crisis Bur,,,,,IFI,Global,Partnership Facilitation,11,Community Resilience
